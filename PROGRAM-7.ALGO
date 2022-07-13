@@ -1,0 +1,6 @@
+Initialize the variables.
+Take the input from user.
+To check given number is palindrome or not.
+Take condition for 10 digit number is reversing.
+Any number is said to be a palindrome if the original number and the reverse of the original number are the same.
+If condition is true then print palindrome otherwise not palindrome.
