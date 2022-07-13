@@ -1,0 +1,4 @@
+Initialize the variables.
+Take the  6 digit number as input from user.
+write the logic for 6 digit number into reverse number does not included 0.
+If zero included then print reverse the number untill zero.
