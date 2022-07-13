@@ -1,0 +1,5 @@
+Initialize the variables.
+Take the input from user.
+write the logic for AND...i.e both inputs are high output will be high(one) otherwise zero.
+write the logic for OR...i.e any one of the input is high output will be high otherwise zero.
+Write the logic for NOT...i.e compliment of bits.
