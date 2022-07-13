@@ -1,0 +1,6 @@
+Initialize the character variable.
+Take the character input from user.
+Take the upper case letters and lower case letters of vowels(a,e,i,o,u) in the condition.
+Write the condition for checking vowel or consonant.
+If the above condition is true then print the given character is vowel.
+If the condition is false then print the given character is consonant.
