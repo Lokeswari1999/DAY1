@@ -1,0 +1,4 @@
+Initialize the variables.
+Take the input from user.
+find the given number is 11 multiple or special number(means 11 multiple + 1) then write the logic for that one.
+It follows the above condition...That condition is true print special number otherwise print non special.
