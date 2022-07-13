@@ -1,0 +1,6 @@
+Initialize the 9 variables.
+Take the input from the user.
+Take the 9 variables one by one condition because asking ascending order.
+Thats why taking one variable is greater than another one.
+That condition is true after write the swapping logic.
+Like that all 9 conditions...then print asecnding order.
